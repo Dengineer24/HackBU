@@ -106,7 +106,8 @@ ul {
   list-style: none;
   color: #000;
   font-size: 20px;
-  display: inline;
+  align-items: center;
+
   
 }
 
