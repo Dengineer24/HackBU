@@ -1,3 +1,3 @@
 # HackBU
 
-Valentines day NFT  
+Valentines day NFT gallery
