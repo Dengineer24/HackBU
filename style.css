@@ -82,3 +82,29 @@ nav a:hover::before {
 .gallery-container {
   align-items: center;
 }
+
+footer {
+  bottom: 0%;
+  color: #FF66CC;
+  position: fixed;
+  width: 100%;
+}
+
+
+.footer {
+  background-color: #FF66CC;
+}
+
+ul {
+  list-style: none;
+  color: #000;
+  font-size: 20px;
+  
+}
+
+.github {
+  height: 30px;
+  width: auto;
+  cursor: pointer;
+
+}
