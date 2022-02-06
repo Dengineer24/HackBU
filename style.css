@@ -15,6 +15,14 @@ header {
   background: #FF66CC;
 }
 
+.about_header {
+	color: white;
+}
+
+.about_text {
+	color: white;
+}
+
 header::after {
   content: '';
   display: table;
