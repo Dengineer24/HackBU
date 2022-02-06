@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Work+Sans:400,600');
-<<<<<<< HEAD
-=======
-@import url('https://fonts.googleapis.com/css2?family=Hahmlet:200,600');
-</style>
 
->>>>>>> 914f31eca54881455d9ab0ef369e03477f08933d
 body {
 	margin: 0;
 	background: #222;
@@ -14,10 +9,6 @@ body {
 }
 
 .container {
-<<<<<<< HEAD
-	
-=======
->>>>>>> 914f31eca54881455d9ab0ef369e03477f08933d
 	width: 70%;
 	margin: 0 auto;
 	margin-top: 75px;
