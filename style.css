@@ -1,21 +1,22 @@
 @import url('https://fonts.googleapis.com/css?family=Work+Sans:400,600');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:600');
+@import url('https://fonts.googleapis.com/css?family=Hahmlet:200,600');
+@import url('https://fonts.googleapis.com/css?family=Hahmlet:200,600&family=Josefin+Sans:600');
+
 body {
-	margin: 0;
-	background: #222;
-	font-family: 'Work Sans', sans-serif;
-	font-weight: 800;
+  background-color: #444;
 }
 
 .container {
-	
 	width: 70%;
 	margin: 0 auto;
-	margin-top: 15px;
-	margin-bottom: 15px
+  background-color: #444;
+  
 }
 
 header {
-  background: #FF66CC;
+	font-family: 'Josefin Sans', sans-serif;
+ 	background: #FF66CC;
 }
 
 .about_header {
