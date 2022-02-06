@@ -236,12 +236,13 @@ li {
   text-align: center;
   color: white;
   padding: 10%;
+  font-size: 40px;
 }
 
 .subtittle {
   text-align: center;
   color: white;
-  transform: translateY(-60px);
+  transform: translateY(-75px);
 }
 
 
