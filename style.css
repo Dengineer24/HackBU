@@ -15,6 +15,14 @@ body {
   
 }
 
+.img_p {
+	padding-top: 30px;
+}
+
+.purchase_desc {
+	padding-bottom: 40px;
+}
+
 header {
 	font-family: 'Josefin Sans', sans-serif;
  	background: #FF66CC;
@@ -26,6 +34,8 @@ header {
 
 .about_text {
 	color: #c4a1b8;
+	font-family: 'Hahmlet', serif;
+	
 }
 
 header::after {
