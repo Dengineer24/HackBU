@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Work+Sans:400,600');
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css?family=Josefin+Sans:600');
 @import url('https://fonts.googleapis.com/css?family=Hahmlet:200,600');
@@ -12,12 +13,14 @@
 	font-family: 'Work Sans', sans-serif;
 	font-weight: 800;
 }
+=======
+@import url('https://fonts.googleapis.com/css?family=Hahmlet:200,600&family=Josefin+Sans:600');
+>>>>>>> Stashed changes
 
 .container {
 	width: 70%;
 	margin: 0 auto;
-	margin-top: 75px;
-	margin-bottom: 75px
+
 }
 
 header {
@@ -140,4 +143,33 @@ li {
   display: inline;
   align-items: center;
   padding: 5px 5px;
+}
+
+
+.hero {
+  color: white;
+  padding: 10%;
+  text-align: center;
+  font-size: 70px;
+}
+
+.subtittle {
+  color: white;
+  text-align: center;
+}
+
+.heart_img {
+  height: 200px;
+  animation: spin 10s ease 3s infinite;
+  position: fixed
+
+};
+
+@keyframes spin {
+	0% {
+		transform: translateY(0) rotate(0deg);
+	}
+	100% {
+		transform: translateY(1500px) rotate(720deg);
+	}
 }
