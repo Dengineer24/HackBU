@@ -5,7 +5,6 @@
 
 body {
   background-color: #444;
-  min-height: 100%;
 }
 
 .container {
@@ -30,6 +29,8 @@ header {
 
 .about_header {
 	color: #c4a1b8;
+	padding-top: 40px;
+	padding-bottom: 40px;
 }
 
 .about_text {
@@ -107,12 +108,10 @@ nav a:hover::before {
 }
 
 footer {
-  bottom: -200px;
+  bottom: 0;
   color: #FF66CC;
-  position: absolute;
+  position: fixed;
   width: 100%;
-  height: auto;
-  margin-top: -200px;
 
 }
 .footer {
