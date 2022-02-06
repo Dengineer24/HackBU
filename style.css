@@ -7,12 +7,23 @@ body {
 }
 
 .container {
-	width: 80%;
+	
+	width: 70%;
 	margin: 0 auto;
+	margin-top: 15px;
+	margin-bottom: 15px
 }
 
 header {
   background: #FF66CC;
+}
+
+.about_header {
+	color: #c4a1b8;
+}
+
+.about_text {
+	color: #c4a1b8;
 }
 
 header::after {
