@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Work+Sans:400,600');
-@import url('https://fonts.googleapis.com/css?family=Hahmlet:200,600');
+@import url('https://fonts.googleapis.com/css?family=Hahmlet:200,600&family=Josefin+Sans:600');
+</style>');
 
-body {
 	margin: 0;
 	background: #222;
 	font-family: 'Hahmlet', serif;
@@ -17,7 +17,8 @@ body {
 }
 
 header {
-  background: #FF66CC;
+	font-family: 'Josefin Sans', sans-serif;
+ 	background: #FF66CC;
 }
 
 .about_header {
