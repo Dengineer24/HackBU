@@ -22,6 +22,7 @@ body::after {
 
 .purchase_artist {
 	color: #c4a1b8;
+	font-family: 'Hahmlet', serif;
 }
 
 .img_p {
@@ -31,6 +32,7 @@ body::after {
 .purchase_desc {
 	padding-bottom: 40px;
 	color: #c4a1b8;
+	
 
 }
 
