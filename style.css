@@ -16,11 +16,11 @@ header {
 }
 
 .about_header {
-	color: white;
+	color: #c4a1b8;
 }
 
 .about_text {
-	color: white;
+	color: #c4a1b8;
 }
 
 header::after {
