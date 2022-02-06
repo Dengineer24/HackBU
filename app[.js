@@ -1,0 +1,1 @@
+document.getElementsByClassName("buy_now").bgcolor="#ffffff";
