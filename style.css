@@ -1,7 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Work+Sans:400,600');
-@import url('https://fonts.googleapis.com/css2?family=Hahmlet:wght@200;600&display=swap');
-</style>
-
 body {
 	margin: 0;
 	background: #222;
@@ -10,7 +7,7 @@ body {
 }
 
 .container {
-	font-family: 'Hahmlet', serif;
+	
 	width: 70%;
 	margin: 0 auto;
 	margin-top: 75px;
@@ -98,7 +95,6 @@ nav a:hover::before {
 }
 
 footer {
-  font-family: 'Hahmlet', serif;
   bottom: 0;
   color: #FF66CC;
   position: fixed;
