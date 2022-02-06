@@ -243,3 +243,31 @@ li {
   color: white;
   transform: translateY(-60px);
 }
+
+
+.buy-now {
+  position: relative;
+  margin: auto;
+  text-decoration: none;
+  font-family: 'Staatliches', cursive;
+  font-size: 30px;
+  width: 225px;
+  height: 60px;
+  border-radius: 40px;
+  line-height: 50px;
+  text-align: center;
+  border: 3px solid white;
+  display: block;
+  color: white;
+  overflow: hidden;
+  background: #FF66CC;
+  transition: .3s;
+  cursor: pointer;
+}
+
+.buy-now:hover {
+  color: #FF66CC;
+  background: white;
+  border: 3px solid #FF66CC;
+  transition: all .2s ease;
+}
