@@ -5,6 +5,7 @@
 
 body {
   background-color: #444;
+  min-height: 100%;
 }
 
 .container {
@@ -96,10 +97,12 @@ nav a:hover::before {
 }
 
 footer {
-  bottom: 0;
+  bottom: -200px;
   color: #FF66CC;
-  position: fixed;
+  position: absolute;
   width: 100%;
+  height: auto;
+  margin-top: -200px;
 
 }
 .footer {
