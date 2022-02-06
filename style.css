@@ -1,12 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Work+Sans:400,600');
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css?family=Josefin+Sans:600');
 @import url('https://fonts.googleapis.com/css?family=Hahmlet:200,600');
 </style>
+=======
+>>>>>>> parent of 6dcb876 (Update style.css)
 
 	margin: 0;
 	background: #222;
-	font-family: 'Hahmlet', serif;
-	/*font-family: 'Work Sans', sans-serif;*/
+	
+	font-family: 'Work Sans', sans-serif;
 	font-weight: 800;
 }
 
