@@ -7,6 +7,12 @@ body {
   background-color: #444;
 }
 
+body::after {
+  content: '';
+  display: block;
+  height: 50px; /* Set same as footer's height */
+}
+
 .container {
 	width: 70%;
 	margin: 0 auto;
@@ -20,6 +26,12 @@ body {
 
 .purchase_desc {
 	padding-bottom: 40px;
+}
+
+.desc {
+	font-family: 'Hahmlet', serif;
+	font-weight: bold;
+
 }
 
 header {
@@ -113,6 +125,7 @@ footer {
   color: #FF66CC;
   position: fixed;
   width: 100%;
+  height: auto;
 
 }
 .footer {
@@ -255,7 +268,7 @@ li {
 .subtittle {
   text-align: center;
   color: white;
-  transform: translateY(-75px);
+  transform: translateY(-100px);
 }
 
 
