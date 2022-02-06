@@ -14,6 +14,10 @@ body {
   
 }
 
+.img_p {
+	padding-top: 30px;
+}
+
 .purchase_desc {
 	padding-bottom: 40px;
 }
