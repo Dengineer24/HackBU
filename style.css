@@ -20,12 +20,21 @@ body::after {
   
 }
 
+.purchase_artist {
+	color: #c4a1b8;
+	font-family: 'Hahmlet', serif;
+}
+
 .img_p {
 	padding-top: 30px;
 }
 
 .purchase_desc {
 	padding-bottom: 40px;
+	color: #c4a1b8;
+	font-family: 'Hahmlet', serif;
+	
+
 }
 
 .desc {
