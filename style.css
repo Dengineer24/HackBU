@@ -5,7 +5,6 @@
 
 body {
   background-color: #444;
-  min-height: 100%;
 }
 
 body::after {
@@ -29,6 +28,12 @@ body::after {
 	padding-bottom: 40px;
 }
 
+.desc {
+	font-family: 'Hahmlet', serif;
+	font-weight: bold;
+
+}
+
 header {
 	font-family: 'Josefin Sans', sans-serif;
  	background: #FF66CC;
@@ -36,9 +41,12 @@ header {
 
 .about_header {
 	color: #c4a1b8;
+
+	padding-top: 45px;
 }
 
 .about_text {
+	font-size: 20px;
 	color: #c4a1b8;
 	font-family: 'Hahmlet', serif;
 	
@@ -115,7 +123,7 @@ nav a:hover::before {
 footer {
   bottom: 0;
   color: #FF66CC;
-  position: absolute;
+  position: fixed;
   width: 100%;
   height: auto;
 
