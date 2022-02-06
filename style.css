@@ -1,16 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Work+Sans:400,600');
-@import url('https://fonts.googleapis.com/css2?family=Hahmlet:wght@200;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hahmlet:200,600');
 </style>
 
 body {
 	margin: 0;
 	background: #222;
-	font-family: 'Work Sans', sans-serif;
+	font-family: 'Hahmlet', serif;
+	/*font-family: 'Work Sans', sans-serif;*/
 	font-weight: 800;
 }
 
 .container {
-	font-family: 'Hahmlet', serif;
 	width: 70%;
 	margin: 0 auto;
 	margin-top: 75px;
