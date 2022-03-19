@@ -18,3 +18,7 @@ What we used:
 - CSS
 - Javascript 
 
+## What we learned
+
+- Front-end development 
+
